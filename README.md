@@ -4,4 +4,4 @@ I created my Leetcode account on September 29, 2023. Here are the solutions that
 
 \# | Title | Solution | Difficulty
 --|--|--|--
-2660 | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/description/) | Python | Easy
+2660 | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/description/) | [Python](https://github.com/GVLocke/leetcode/blob/main/solutions/python/2660%20Determine%20Winner%20of%20Bowling%20Game.py) | Easy
