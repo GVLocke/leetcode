@@ -15,6 +15,7 @@ class Solution(object):
                 nums_set.add(i)
         return False
 
-nums2 = [1,2,3,4]
+
+nums2 = [1, 2, 3, 4]
 bruh = Solution()
 print(bruh.containsDuplicate(nums2))

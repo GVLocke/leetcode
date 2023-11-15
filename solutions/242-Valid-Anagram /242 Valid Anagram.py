@@ -13,7 +13,8 @@ class Solution(object):
         t_list = list(t)
         t_list.sort()
         return s_list == t_list
-    
+
+
 text = "bruh"
 text2 = "rubt"
 bruh = Solution()
