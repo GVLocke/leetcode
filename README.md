@@ -11,3 +11,5 @@ I created my Leetcode account on September 29, 2023. Here are the solutions that
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/GVLocke/leetcode/blob/main/solutions/49-Group-Anagrams/group_anagrams.py) | 🟡 Medium 🟡
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](https://github.com/GVLocke/leetcode/blob/main/solutions/347-Top-K-Frequent-Elements/topkfrequentelements.py) | 🟡 Medium 🟡
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Python](https://github.com/GVLocke/leetcode/blob/main/solutions/238-Product-of-Array-Except-Self/product-of-array-except-self.py) | 🟡 Medium 🟡
+36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](https://github.com/GVLocke/leetcode/blob/main/solutions/36-Valid-Sudoku/isvalidsudoku.py) | 🟡 Medium 🟡
+271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) [Python](https://github.com/GVLocke/leetcode/blob/main/solutions/271-Encode-And-Decode-Strings/encodeAndDecodeStrings.py) | 🟡 Medium 🟡
