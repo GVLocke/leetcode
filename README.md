@@ -5,6 +5,7 @@ I created my Leetcode account on September 29, 2023. Here are the solutions that
 \# | Title | Solution | Difficulty
 --|--|--|--
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/GVLocke/leetcode/blob/main/solutions/1-Two-Sum/twosum.py), [Swift](https://github.com/GVLocke/leetcode/blob/main/solutions/1-Two-Sum/twosum.swift) | 🟢 Easy 🟢
+20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/GVLocke/leetcode/blob/main/solutions/20-Valid-Parentheses/validparentheses.py) | 🟢 Easy 🟢
 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) | [Python](https://github.com/GVLocke/leetcode/blob/main/solutions/26-Remove-Duplicates-From-Sorted-Array/26-Remove-Duplicates.py) | 🟢 Easy 🟢
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/GVLocke/leetcode/blob/main/solutions/27-Remove-Element/removeElement.py) | 🟢 Easy 🟢
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](https://github.com/GVLocke/leetcode/blob/main/solutions/36-Valid-Sudoku/isvalidsudoku.py) | 🟡 Medium 🟡
